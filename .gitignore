@@ -10,11 +10,11 @@ lerna-debug.log*
 .pnpm-debug.log*
 
 # node modules
-node_modules/
+node_modules
 
 # enviroment variables
 .env
 .local.env
 
 # build
-dist/
+dist
